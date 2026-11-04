@@ -1,0 +1,23 @@
+# Python virtual environment
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Environment variables and secrets
+.env
+.env.*
+
+# Raw and processed financial datasets
+data/Raw/
+data/raw/
+data/processed/
+
+# Generated results
+results/
